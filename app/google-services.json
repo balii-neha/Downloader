@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "800541369517",
+    "project_id": "nehabaliassignmenttest",
+    "storage_bucket": "nehabaliassignmenttest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800541369517:android:6aa633cfdc59a9d90d5224",
+        "android_client_info": {
+          "package_name": "com.kotlin.nehabaliassignmenttest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800541369517-9g9635v1ddijkn68ea9srr42u9rs8le4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgjKGfRxY9Zq1iOHRUVtfb835gAWnvukc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800541369517-9g9635v1ddijkn68ea9srr42u9rs8le4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
